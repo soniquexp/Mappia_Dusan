@@ -217,7 +217,7 @@
 				<Title>reke</Title>
 				<Abstract>GH:reke ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="20.403457650705207" miny="43.398724842589075" maxx="20.908815626218566" maxy="43.85156560393849"></LatLonBoundingBox>
